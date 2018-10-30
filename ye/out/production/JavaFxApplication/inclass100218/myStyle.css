@@ -1,0 +1,23 @@
+.root
+{
+    -fx-background-color: linear-gradient(#550000, #030303);
+    -fx-font-size: 20pt;
+    -fx-font-family: 'DejaVu Serif', Georgia, "Times New Roman", Times, serif;
+}
+
+.button
+{
+    -fx-background-color: #BB0000;
+    -fx-text-fill: #BBBBBB;
+}
+
+.button:hover
+{
+    -fx-border-color: #FFFFFF;
+    -fx-border-width: 2pt;
+}
+
+.label
+{
+    -fx-text-fill: #BBBBBB;
+}
